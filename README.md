@@ -1,4 +1,3 @@
-<!DOCTYPE html><html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -259,6 +258,6 @@
   </section>  <section id="contacto">
     <div class="section-title">Contacto</div>
     <div class="divider"></div>
-    <p class="section-text">- maria.apaza.meza@uasp.edu.pe</p>
+    <p class="section-text">- maria.apaza.meza@ucsp.edu.pe</p>
   </section>
 </body>
