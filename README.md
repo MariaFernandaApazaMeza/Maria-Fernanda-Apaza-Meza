@@ -132,8 +132,14 @@
       <div class="card"><div class="card-title">Piero Chahuares</div>
         <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz-390092358" target="_blank">Linkedln</a>
       </div>
-      <div class="card"><div class="card-title">Krislet Juarez</div></div>
-      <div class="card"><div class="card-title">Mariano Mendoza</div></div>
+      <div class="grid">
+      <div class="card"><div class="card-title">Krislet Juarez</div>
+        <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357" target="_blank">Linkedln</a>
+      </div>
+      <div class="grid">
+      <div class="card"><div class="card-title">Mariano Mendoza</div>
+        <a href="https://www.linkedin.com/in/mariano-mendoza-pinto-153a52249" target="_blank">LinkedIn</a>
+      </div>
       <div class="card"><div class="card-title">Sergio Palomino</div></div>
       <div class="card"><div class="card-title">Vanessa Yesán</div></div>
     </div>
