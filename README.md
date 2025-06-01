@@ -137,7 +137,8 @@
       <div class="card"><div class="card-title">Sergio Palomino</div></div>
       <div class="card"><div class="card-title">Vanessa Yesán</div></div>
     </div>
-  </section>  <section id="contacto">
+      
+  <section id="contacto">
     <div class="section-title">Contacto</div>
     <div class="divider"></div>
     <p class="section-text">- maria.apaza.meza@ucsp.edu.pe</p>
