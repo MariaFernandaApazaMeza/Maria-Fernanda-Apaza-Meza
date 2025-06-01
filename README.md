@@ -126,7 +126,7 @@
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">Valentina Bedregal</div>
-        <<a href="https://www.linkedin.com/in/valentina-bedregal-151770340" target="_blank"> LinkedIn</a>
+        <<a href="https://www.linkedin.com/in/valentina-bedregal-151770340" target="_blank">-LinkedIn</a>
       </div>    
       <div class="card"><div class="card-title">Piero Chahuares</div></div>
       <div class="card"><div class="card-title">Krislet Juarez</div></div>
