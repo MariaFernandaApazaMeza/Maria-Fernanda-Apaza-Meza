@@ -141,9 +141,9 @@
   <section id="contacto">
     <div class="section-title">Contacto</div>
     <div class="divider"></div>
-    <p class="section-text">- maria.apaza.meza@ucsp.edu.pe</p>
-  </section>
+    <p class="section-text">- 📧 maria.apaza.meza@ucsp.edu.pe</p>
 </body>
   </head>
+  </section>
 
 
