@@ -8,13 +8,13 @@
     :root {
         --background-light: white;
         --text-light: #333;
-        --background-dark: #FFB51F;
+        --background-dark: ##f5dac0;
         --text-dark: white
     }
     
     body {
       font-family: Arial, sans-serif;
-      background-color: #FFB51F;
+      background-color: #F5DAC0;
       margin: 0;
       padding: 0;
       color: FFE4B3;
@@ -23,8 +23,8 @@
   
     header, footer {
       text-align: center;
-      background-color: white;
-      color: #FE470A;
+      background-color: #FFB51F;
+      color: white;
     }
     
     nav {
@@ -156,5 +156,4 @@
   </section>
 </body>
 </html>
-
 
