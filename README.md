@@ -8,16 +8,6 @@
     :root {
         --background-light: white;
         --text-light: #333;
-        --background<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>María Fernanda Apaza Meza</title>
-  <style>
-    :root {
-        --background-light: white;
-        --text-light: #333;
         --background-dark: #FFE4B3;
         --text-dark: white
     }
@@ -193,8 +183,14 @@
       <a href="https://www.linkedin.com/in/valentina-bedregal-151770340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
       <a href="https://graziavalentina.github.io/Grazia-Valentina-Bedregal-Ochoa/">Página web</a><p/>
       </div>
+      <div class="card"><div class="card-title">Thirza Cansaya</div>
+      <a href="https://www.linkedin.com/in/thirza-alexka-cansaya-escobedo-588112292/">Linkedln</a><p/>
+      </div>
       <div class="card"><div class="card-title">Piero Chahuares</div>
       <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
+      </div>
+      <div class="card"><div class="card-title">Fabiola Terán</div>
+      <a href="https://www.linkedin.com/in/alexandra-escobedo-07a227211/">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Krislet Juarez</div>
       <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
