@@ -156,7 +156,14 @@
     <div class="section-title">Voluntariados y Conferencias</div>
     <div class="divider"></div>
     <div class="grid">
-      <div class="card"><div class="card-title">Ruta del progreso</div></div>
+      <div class="card"><div class="card-title">Ruta del progreso</div>
+      <p class="section-text">
+      Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la 
+      <a href="https://ucsp.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      Universidad Católica San Pablo
+      </a>. Me interesa comprender cómo las organizaciones pueden crecer de forma sostenible a través de estrategias bien estructuradas y una gestión eficiente. Durante mi formación, he fortalecido competencias clave como el trabajo colaborativo, la comunicación efectiva y la toma de decisiones. Tengo un especial interés en áreas como el marketing, el análisis financiero y el liderazgo, ya que considero que son fundamentales para generar impacto en el entorno empresarial actual.
+      </p>
+      </div>
       <div class="card"><div class="card-title">PMI</div></div>
     </div>
   </section>
