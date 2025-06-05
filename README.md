@@ -98,7 +98,7 @@
   <nav>
     <a href="#sobremi">Sobre mí</a>
     <a href="#cursos-universitarios">Cursos Universitarios</a>
-    <a href="#cursos-adicionales">Cursos Adicionales</a>
+    <a href="#cursos-adicionales">Voluntariados y Conferencias</a>
     <a href="#idiomas">Idiomas</a>
     <a href="#amigos">Amigos y Compañeros</a>
     <a href="#contacto">Contacto</a>
@@ -152,8 +152,8 @@
     </div>
   </section>
   
-  <section id="cursos-adicionales">
-    <div class="section-title">Cursos Adicionales</div>
+  <section id="Voluntariados y Charlas">
+    <div class="section-title">Voluntariados y Conferencias</div>
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">PMBA</div></div>
