@@ -158,10 +158,16 @@
     <div class="grid">
       <div class="card"><div class="card-title">Ruta del progreso</div>
       <p class="section-text">
-      Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la 
-      <a href="https://ucsp.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
-      Universidad Católica San Pablo
-      </a>. Me interesa comprender cómo las organizaciones pueden crecer de forma sostenible a través de estrategias bien estructuradas y una gestión eficiente. Durante mi formación, he fortalecido competencias clave como el trabajo colaborativo, la comunicación efectiva y la toma de decisiones. Tengo un especial interés en áreas como el marketing, el análisis financiero y el liderazgo, ya que considero que son fundamentales para generar impacto en el entorno empresarial actual.
+      Formé parte del equipo voluntario de La Ruta del Progreso, una feria itinerante enfocada en promover la educación financiera en distintas regiones del país. En esta ocasión, la actividad se llevó a cabo en la Plaza de Yanahuara, Arequipa. La feria contó con la participación de instituciones como 
+      <a href="https://www.viabcp.com/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      BCP
+      </a>, <a href="https://www.mibanco.com.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      MI BANCO
+      </a>, <a href="https://www.prima.com.pe/public-zone/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      PRIMA
+      </a> y <a href="https://www.pacifico.com.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      PACÍFICO SEGUROS
+      </a>, y ofreció talleres, charlas y dinámicas orientadas a enseñar conceptos financieros de forma accesible y entretenida para todas las edades. Esta experiencia fortaleció mi compromiso con la inclusión financiera y el desarrollo comunitario.
       </p>
       </div>
       <div class="card"><div class="card-title">PMI</div></div>
