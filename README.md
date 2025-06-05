@@ -166,6 +166,7 @@
       </a> y <a href="https://www.pacifico.com.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       PACÍFICO SEGUROS 
       </a>, y ofreció talleres, charlas y dinámicas orientadas a enseñar conceptos financieros de forma accesible y entretenida para todas las edades. Esta experiencia fortaleció mi compromiso con la inclusión financiera y el desarrollo comunitario.
+      </p>
       </div>
       <div class="card"><div class="card-title">PMI</div></div>
     </div>
