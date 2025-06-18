@@ -152,7 +152,7 @@
     </div>
   </section>
   
-  <section id="Voluntariados y Charlas">
+  <section id="Voluntariados y Conferencias">
     <div class="section-title">Voluntariados y Conferencias</div>
     <div class="divider"></div>
     <div class="grid">
@@ -194,10 +194,12 @@
     <div class="grid">
       <div class="card"><div class="card-title">Valentina Bedregal</div>
       <a href="https://www.linkedin.com/in/valentina-bedregal-151770340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
-      <a href="https://graziavalentina.github.io/Grazia-Valentina-Bedregal-Ochoa/">Página web</a><p/>
+      <a href="https://graziavalentina.github.io/Grazia-Valentina-Bedregal-Ochoa/">Gracia Valentina Bedregal Ochoa</a><p/>
       </div>
       <div class="card"><div class="card-title">Thirza Cansaya</div>
-      <a href="https://www.linkedin.com/in/thirza-alexka-cansaya-escobedo-588112292/">Linkedln</a><p/>
+      <a href="https://www.linkedin.com/in/thirza-alexka-cansaya-escobedo-588112292/">Linkedln</a>
+      <a href="https://graziavalentina.github.io/Grazia-Valentina-Bedregal-Ochoa/">Thirza Alexka Cansaya Escobedo</a><p/>
+  <p/>
       </div>
       <div class="card"><div class="card-title">Piero Chahuares</div>
       <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
