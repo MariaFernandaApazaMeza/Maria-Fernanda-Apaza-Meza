@@ -202,7 +202,9 @@
       <a href="https://thirzaalexkacansayaescobedo.github.io/ThirzaCansaya/">Thirza Alexka Cansaya Escobedo</a><p/>
       </div>
       <div class="card"><div class="card-title">Piero Chahuares</div>
-      <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
+      <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
+<p/>
+      <a href="https://pierochahuares.github.io/Piero-Mathias-Chahuares-D-az/">Piero Mathias Chahuares Díaz</a><p/>
       </div>
       <div class="card"><div class="card-title">Fabiola Terán</div>
       <a href="https://www.linkedin.com/in/alexandra-escobedo-07a227211/">Linkedln</a><p/>
