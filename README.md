@@ -198,7 +198,7 @@
       </div>
       <div class="card"><div class="card-title">Thirza Cansaya</div>
       <a href="https://www.linkedin.com/in/thirza-alexka-cansaya-escobedo-588112292/">Linkedln</a>
-      <a href="https://graziavalentina.github.io/Grazia-Valentina-Bedregal-Ochoa/">Thirza Alexka Cansaya Escobedo</a><p/>
+      <a href="https://thirzaalexkacansayaescobedo.github.io/ThirzaCansaya/">Thirza Alexka Cansaya Escobedo</a><p/>
   <p/>
       </div>
       <div class="card"><div class="card-title">Piero Chahuares</div>
