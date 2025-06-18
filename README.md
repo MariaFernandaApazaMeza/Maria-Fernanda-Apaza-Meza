@@ -171,7 +171,7 @@
       </p>
       </div>
       <div class="card"><div class="card-title">PMI</div>
-      <p class="selection-text">
+      <p class="section-text">
       Mi participación en el PMI (Project Management Institute) marcó el inicio de un valioso recorrido profesional. Allí conocí a 
       <a href="https://www.linkedin.com/in/eduardolanao/" target="blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Eduardo Lanao,
