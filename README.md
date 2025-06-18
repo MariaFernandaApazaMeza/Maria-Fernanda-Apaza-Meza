@@ -229,6 +229,10 @@
 <p/>
      <a href="https://vanessa-alexandra-yesan-valdivia.github.io/">Vanessa Alexandra Yesan Valdivia</a><p/>
       </div>
+      <div class="card"><div class="card-title">Alvaro Apaza</div>
+<p/>
+     <a href="https://alvaroenriqueapazaluque.github.io/AlvaroApazaLuque.github.io/">Alvaro Apaza Luque</a><p/>
+      </div>
     </div>
     
   </section>
