@@ -207,21 +207,27 @@
       <a href="https://pierochahuares.github.io/Piero-Mathias-Chahuares-D-az/">Piero Mathias Chahuares Díaz</a><p/>
       </div>
       <div class="card"><div class="card-title">Fabiola Terán</div>
-      <a href="https://www.linkedin.com/in/alexandra-escobedo-07a227211/">Linkedln</a><p/>
+      <a href="https://www.linkedin.com/in/alexandra-escobedo-07a227211/">Linkedln</a>
+<p/>
+      <a href="https://alexandrafabiola.github.io/alexandra-escobedo/">Alexandra Fabiola Escobedo Terán</a><p/>
       </div>
       <div class="card"><div class="card-title">Krislet Juarez</div>
-      <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
-      <a href="https://krisletyahairajuarezarce.github.io/Krislet-Yahaira-Juarez-Arce/">Página web</a><p/>
+      <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
+<p/>
+      <a href="https://krisletyahairajuarezarce.github.io/Krislet-Yahaira-Juarez-Arce/">Krislet Yahaira Juarez Arce</a><p/>
       </div>
       <div class="card"><div class="card-title">Mariano Mendoza</div>
       <a href="https://www.linkedin.com/in/mariano-mendoza-pinto-153a52249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
+      <a href="https://mmenddoza.github.io/Mariano-Andrei-Mendoza-Pinto/">Mariano Andrei Mendoza Pinto</a><p/>
       </div>
       <div class="card"><div class="card-title">Sergio Palomino</div>
       <a href="https://www.linkedin.com/in/palomino-rosado-sergio-gonzalo-a64996356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
-      <a href="https://sergipalomino.github.io/Perfil.Sergio.PR/">Página web</a><p/>
+      <a href="https://sergipalomino.github.io/Perfil.Sergio.PR/">Sergio Gonzalo Palomino Rosado</a><p/>
       </div>
       <div class="card"><div class="card-title">Vanessa Yesán</div>
-      <a href="https://www.linkedin.com/in/vanessa-alexandra-yesan-valdivia-8810a5334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
+      <a href="https://www.linkedin.com/in/vanessa-alexandra-yesan-valdivia-8810a5334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
+<p/>
+     <a href="https://vanessa-alexandra-yesan-valdivia.github.io/">Vanessa Alexandra Yesan Valdivia</a><p/>
       </div>
     </div>
     
