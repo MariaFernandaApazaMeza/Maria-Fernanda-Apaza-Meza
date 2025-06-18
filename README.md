@@ -198,8 +198,8 @@
       </div>
       <div class="card"><div class="card-title">Thirza Cansaya</div>
       <a href="https://www.linkedin.com/in/thirza-alexka-cansaya-escobedo-588112292/">Linkedln</a>
+<p/>
       <a href="https://thirzaalexkacansayaescobedo.github.io/ThirzaCansaya/">Thirza Alexka Cansaya Escobedo</a><p/>
-  <p/>
       </div>
       <div class="card"><div class="card-title">Piero Chahuares</div>
       <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
