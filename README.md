@@ -234,6 +234,11 @@
       <div class="card"><div class="card-title">Alvaro Apaza</div>
      <a href="https://alvaroenriqueapazaluque.github.io/AlvaroApazaLuque.github.io/">Alvaro Apaza Luque</a><p/>
       </div>
+      <div class="card"><div class="card-title">Fabian Cayo</div>
+      <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
+<p/>
+      <a href="https://fabianrodrigocayocalcina.github.io/">Fabian Rodrigo Cayo Calcina</a><p/>
+      </div>
     </div>
     
   </section>
