@@ -119,28 +119,28 @@
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">Economía General</div>
-      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Karlo Alfonso Lam Obregón</a></p>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Karlo Alfonso Lam Obregón</a></p>
       </div>
       <div class="card"><div class="card-title">Fundamentos de la Administración</div>
-      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/jackelinecv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Jackeline Castillo Vera</a><p/>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/jackelinecv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Jackeline Castillo Vera</a><p/>
       </div>
       <div class="card"><div class="card-title">Pensamiento Crítico</div>
-      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ana Elizabeth Gómez Burns</a></p>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ana Elizabeth Gómez Burns</a></p>
       </div>
       <div class="card"><div class="card-title">Derecho Empresarial</div>
-      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/katherinelazogonzales?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Katherine Lazo Gonzales</a><p/>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/katherinelazogonzales?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Katherine Lazo Gonzales</a><p/>
       </div>
       <div class="card"><div class="card-title">Fundamentos del Marketing</div>
-      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/sofiaestremadoyro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Sofía Estremadoyro Bejarano</a><p/>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/sofiaestremadoyro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Sofía Estremadoyro Bejarano</a><p/>
       </div>
       <div class="card"><div class="card-title">Matemática Financiera</div>
-      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/gerardorea%C3%B1o?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Gerardo Velarde Reaño</a><p/>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/gerardorea%C3%B1o?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Gerardo Velarde Reaño</a><p/>
       </div>
       <div class="card"><div class="card-title">Análisis Financiero</div>
-      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/lelia-rubina-27939889?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Lelia Maria Rubina Guillen</a><p/>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/lelia-rubina-27939889?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Lelia Maria Rubina Guillen</a><p/>
       </div>
       <div class="card"><div class="card-title">Introducción a las Ciencias de la Computación</div>
-      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/ecuadrosv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ernesto Cuadros Vargas</a><p/>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/ecuadrosv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ernesto Cuadros Vargas</a><p/>
       </div>
     </div>
   </section>
