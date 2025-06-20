@@ -247,6 +247,7 @@
     <div class="divider"></div>
     <p class="section-text">📧 Gmail</p>
     <a href="maria.apaza.meza@ucsp.edu.pe">maria.apaza.meza@ucsp.edu.pe</a><p/>
+    <p class="section-text">Linkedln</p>
     <a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-apaza-meza-3926aa29b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">🔹María Fernanda Apaza Meza</a>
     <p/>
   </section>
