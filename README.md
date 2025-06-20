@@ -119,8 +119,7 @@
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">Economía General</div>
-      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Karlo Alfonso Lam Obregón</a>
-      </div>
+      <p class="section-text">Docente: <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Karlo Alfonso Lam Obregón</a></div>
       <div class="card"><div class="card-title">Fundamentos de la Administración</div>
       <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/jackelinecv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Jackeline Castillo Vera</a>
       </div>
