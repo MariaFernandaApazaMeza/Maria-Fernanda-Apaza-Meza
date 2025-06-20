@@ -119,13 +119,13 @@
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">Economía General</div>
-      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Karlo Alfonso Lam Obregón</a></p>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Karlo Alfonso Lam Obregón</a>
       </div>
       <div class="card"><div class="card-title">Fundamentos de la Administración</div>
-      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/jackelinecv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Jackeline Castillo Vera</a><p/>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/jackelinecv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Jackeline Castillo Vera</a>
       </div>
       <div class="card"><div class="card-title">Pensamiento Crítico</div>
-      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ana Elizabeth Gómez Burns</a></p>
+      <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ana Elizabeth Gómez Burns</a>
       </div>
       <div class="card"><div class="card-title">Derecho Empresarial</div>
       <p class="section-text">Docente: </p><a href="https://www.linkedin.com/in/katherinelazogonzales?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Katherine Lazo Gonzales</a><p/>
