@@ -127,7 +127,7 @@
       </div>
       <div class="card"><div class="card-title">Pensamiento Crítico</div>
       <p class="section-text">Docente: Ana Elizabeth Gómez Burns</p>
-      <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
+      <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Ana Elizabeth Gómez Burns</a><p/>
       </div>
       <div class="card"><div class="card-title">Derecho Empresarial</div>
       <p class="section-text">Docente: Katherine Lazo Gonzales</p>
