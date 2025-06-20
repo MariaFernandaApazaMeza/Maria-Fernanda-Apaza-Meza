@@ -235,7 +235,7 @@
      <a href="https://alvaroenriqueapazaluque.github.io/AlvaroApazaLuque.github.io/">Alvaro Apaza Luque</a><p/>
       </div>
       <div class="card"><div class="card-title">Fabian Cayo</div>
-      <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
+      <a href="https://www.linkedin.com/in/fabi%C3%A1n-cayo-calcina-177709219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
 <p/>
       <a href="https://fabianrodrigocayocalcina.github.io/">Fabian Rodrigo Cayo Calcina</a><p/>
       </div>
@@ -245,7 +245,8 @@
   <section id="contacto">
     <div class="section-title">Contacto</div>
     <div class="divider"></div>
-    <p class="section-text">📧 Gmail</p><a href="maria.apaza.meza@ucsp.edu.pe"maria.apaza.meza@ucsp.ed.pe</a><p/>
+    <p class="section-text">📧 Gmail</p>
+    <a href="maria.apaza.meza@ucsp.edu.pe">maria.apaza.meza@ucsp.edu.pe</a><p/>
     <a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-apaza-meza-3926aa29b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">🔹María Fernanda Apaza Meza</a>
     <p/>
   </section>
