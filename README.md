@@ -173,13 +173,13 @@
       </a>, referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
       </p>
       </div>
-    </div>
+    
   </section>
   <section id="idiomas">
     <div class="section-title">Idiomas</div>
     <div class="divider"></div>
     <div class="grid">
-      <div class="card"><div class="card-title">Inglés</div>
+      <div class="card"><div class="card-title">Inglés</div>,,
         <p class="section-text">El dominio del inglés representa una herramienta fundamental en el ámbito académico y profesional, ya que permite acceder a información actualizada, literatura especializada y oportunidades internacionales. Es un idioma clave para los negocios y la gestión empresarial.</p><a href="https://cultural.edu.pe/arequipa/">Centro Cultural Norteamericano</a>
         <p/>
       </div>
