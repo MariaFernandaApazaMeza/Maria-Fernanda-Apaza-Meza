@@ -168,7 +168,7 @@
       Mi participación en el PMI (Project Management Institute) marcó el inicio de un valioso recorrido profesional. Allí conocí a 
       <a href="https://www.linkedin.com/in/eduardolanao/" target="blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Eduardo Lanao,
-      </a>con quien profundicé en temas de minería sostenible, y a <a href="https://www.linkedin.com/in/eddy-morris-ph-d-64a73940/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      </a>con quien profundicé en temas de minería sosteniblepues es su principal propósito en <a href="https://www.esan.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">, y a <a href="https://www.linkedin.com/in/eddy-morris-ph-d-64a73940/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Eddy Morris
       </a>, referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
       </p>
