@@ -175,6 +175,7 @@
       </div>
     </div>
   </section>
+        
   <section id="idiomas">
     <div class="section-title">Idiomas</div>
     <div class="divider"></div>
