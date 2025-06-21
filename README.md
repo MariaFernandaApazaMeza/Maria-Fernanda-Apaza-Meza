@@ -173,7 +173,7 @@
       </a>, referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
       </p>
       </div>
-    
+    </div>
   </section>
   <section id="idiomas">
     <div class="section-title">Idiomas</div>
