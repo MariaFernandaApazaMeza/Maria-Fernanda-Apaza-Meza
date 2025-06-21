@@ -240,6 +240,18 @@
 <p/>
       <a href="https://fabianrodrigocayocalcina.github.io/">Fabian Rodrigo Cayo Calcina</a><p/>
       </div>
+      <div class="card"><div class="card-title">Leonardo Cruz</div>
+     <a href="https://leonardocruzmamani28.github.io/">Leonardo Guillermo Cruz Mamani</a><p/>
+      </div>
+      <div class="card"><div class="card-title">Pedro Flores</div>
+     <a href="https://pedro191102.github.io/Pedro-Fabian-Zahir-Flores-Gutierrez/">Pedro Fabián Zahir Flores Gutierrez</a><p/>
+      </div>
+      <div class="card"><div class="card-title">Maria Jose Montoya</div>
+     <a href="https://maria-035.github.io/maria.montoya.cardenas-/">Maria Jose Montoya Cardenas</a><p/>
+      </div>
+      <div class="card"><div class="card-title">Thalia Torres</div>
+     <a href="https://essie-torres.github.io/mi-sitio-web/">Thalia Esther Torres Banda</a><p/>
+      </div>
     </div>
     
   </section>
