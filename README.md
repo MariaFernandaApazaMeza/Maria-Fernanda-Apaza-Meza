@@ -195,6 +195,9 @@
     <div class="section-title">Amigos y Compañeros</div>
     <div class="divider"></div>
     <div class="grid">
+      <div class="card"><div class="card-title">Alvaro Apaza</div>
+     <a href="https://alvaroenriqueapazaluque.github.io/AlvaroApazaLuque.github.io/">Alvaro Apaza Luque</a><p/>
+      </div>
       <div class="card"><div class="card-title">Valentina Bedregal</div>
       <a href="https://www.linkedin.com/in/valentina-bedregal-151770340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
       <a href="https://graziavalentina.github.io/Grazia-Valentina-Bedregal-Ochoa/">Gracia Valentina Bedregal Ochoa</a><p/>
@@ -207,15 +210,21 @@
 <p/>
       <a href="https://thirzaalexkacansayaescobedo.github.io/ThirzaCansaya/">Thirza Alexka Cansaya Escobedo</a><p/>
       </div>
+      <div class="card"><div class="card-title">Fabian Cayo</div>
+      <a href="https://www.linkedin.com/in/fabi%C3%A1n-cayo-calcina-177709219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
+<p/>
+      <a href="https://fabianrodrigocayocalcina.github.io/">Fabian Rodrigo Cayo Calcina</a><p/>
+      </div>
       <div class="card"><div class="card-title">Piero Chahuares</div>
       <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
 <p/>
       <a href="https://pierochahuares.github.io/Piero-Mathias-Chahuares-D-az/">Piero Mathias Chahuares Díaz</a><p/>
       </div>
-      <div class="card"><div class="card-title">Fabiola Terán</div>
-      <a href="https://www.linkedin.com/in/alexandra-escobedo-07a227211/">Linkedln</a>
-<p/>
-      <a href="https://alexandrafabiola.github.io/alexandra-escobedo/">Alexandra Fabiola Escobedo Terán</a><p/>
+      <div class="card"><div class="card-title">Leonardo Cruz</div>
+     <a href="https://leonardocruzmamani28.github.io/">Leonardo Guillermo Cruz Mamani</a><p/>
+      </div>
+      <div class="card"><div class="card-title">Pedro Flores</div>
+     <a href="https://pedro191102.github.io/Pedro-Fabian-Zahir-Flores-Gutierrez/">Pedro Fabián Zahir Flores Gutierrez</a><p/>
       </div>
       <div class="card"><div class="card-title">Krislet Juarez</div>
       <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
@@ -226,34 +235,25 @@
       <a href="https://www.linkedin.com/in/mariano-mendoza-pinto-153a52249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
       <a href="https://mmenddoza.github.io/Mariano-Andrei-Mendoza-Pinto/">Mariano Andrei Mendoza Pinto</a><p/>
       </div>
+      <div class="card"><div class="card-title">Maria Jose Montoya</div>
+     <a href="https://maria-035.github.io/maria.montoya.cardenas-/">Maria Jose Montoya Cardenas</a><p/>
+      </div>
       <div class="card"><div class="card-title">Sergio Palomino</div>
       <a href="https://www.linkedin.com/in/palomino-rosado-sergio-gonzalo-a64996356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a><p/>
       <a href="https://sergipalomino.github.io/Perfil.Sergio.PR/">Sergio Gonzalo Palomino Rosado</a><p/>
+      </div>
+      <div class="card"><div class="card-title">Fabiola Terán</div>
+      <a href="https://www.linkedin.com/in/alexandra-escobedo-07a227211/">Linkedln</a>
+<p/>
+      <a href="https://alexandrafabiola.github.io/alexandra-escobedo/">Alexandra Fabiola Escobedo Terán</a><p/>
+      </div>
+      <div class="card"><div class="card-title">Thalia Torres</div>
+     <a href="https://essie-torres.github.io/mi-sitio-web/">Thalia Esther Torres Banda</a><p/>
       </div>
       <div class="card"><div class="card-title">Vanessa Yesán</div>
       <a href="https://www.linkedin.com/in/vanessa-alexandra-yesan-valdivia-8810a5334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
 <p/>
      <a href="https://vanessa-alexandra-yesan-valdivia.github.io/">Vanessa Alexandra Yesan Valdivia</a><p/>
-      </div>
-      <div class="card"><div class="card-title">Alvaro Apaza</div>
-     <a href="https://alvaroenriqueapazaluque.github.io/AlvaroApazaLuque.github.io/">Alvaro Apaza Luque</a><p/>
-      </div>
-      <div class="card"><div class="card-title">Fabian Cayo</div>
-      <a href="https://www.linkedin.com/in/fabi%C3%A1n-cayo-calcina-177709219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>
-<p/>
-      <a href="https://fabianrodrigocayocalcina.github.io/">Fabian Rodrigo Cayo Calcina</a><p/>
-      </div>
-      <div class="card"><div class="card-title">Leonardo Cruz</div>
-     <a href="https://leonardocruzmamani28.github.io/">Leonardo Guillermo Cruz Mamani</a><p/>
-      </div>
-      <div class="card"><div class="card-title">Pedro Flores</div>
-     <a href="https://pedro191102.github.io/Pedro-Fabian-Zahir-Flores-Gutierrez/">Pedro Fabián Zahir Flores Gutierrez</a><p/>
-      </div>
-      <div class="card"><div class="card-title">Maria Jose Montoya</div>
-     <a href="https://maria-035.github.io/maria.montoya.cardenas-/">Maria Jose Montoya Cardenas</a><p/>
-      </div>
-      <div class="card"><div class="card-title">Thalia Torres</div>
-     <a href="https://essie-torres.github.io/mi-sitio-web/">Thalia Esther Torres Banda</a><p/>
       </div>
     </div>
     
