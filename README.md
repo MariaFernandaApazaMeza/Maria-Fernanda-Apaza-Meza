@@ -170,7 +170,10 @@
       Eduardo Lanao,
       </a>con quien profundicé en temas de minería sostenible, y a <a href="https://www.linkedin.com/in/eddy-morris-ph-d-64a73940/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Eddy Morris
-      </a>, referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
+      </a>, ( Decano de la Facultad de Ingeniería <a href="https://www.esan.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      ESAN
+      </a>,
+       ) referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
       </p>
       </div>
     </div>
