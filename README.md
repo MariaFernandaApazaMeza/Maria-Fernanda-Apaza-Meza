@@ -172,7 +172,7 @@
       Eddy Morris
       </a>, ( Decano de la Facultad de Ingeniería <a href="https://www.esan.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       ESAN
-      </a>,
+      </a>
        ) referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
       </p>
       </div>
